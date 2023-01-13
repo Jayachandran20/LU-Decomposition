@@ -22,6 +22,7 @@ Developed by: M.Jayachandran
 RegisterNumber: 22008847
 */
 ```
+```
 import numpy as np  #from numpy import array
 from scipy.linalg import lu
 arr=eval(input())
@@ -38,6 +39,7 @@ Developed by: M.Jayachandran
 RegisterNumber: 22008847
 */
 ```
+```
 # To print X matrix (solution to the equations)
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
@@ -50,8 +52,12 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]("/image/landu.png)
-![lu decomposition]("/image/lu.png)
+
+![landu](https://user-images.githubusercontent.com/118447015/212349912-29e8dd22-e290-44eb-8ded-c7d46a083ffb.png)
+
+![lu](https://user-images.githubusercontent.com/118447015/212349944-ea856fbf-5d17-4dee-af02-07e768b9dd26.png)
+
+
 
 
 ## Result:
